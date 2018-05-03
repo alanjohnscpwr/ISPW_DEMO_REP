@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?totaltestVersion 18.3.1.v20180327-2102_9?>
+<!--Topaz for Total Test 18.3.1.v20180327-2102_9 May 3, 2018 2:57:49 PM-->
+<testsuites>
+  <testsuite errors="0" failures="1" name="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTDATE_Scenario' Testcase: 'CWXTDATECase1'" tests="8">
+    <testcase classname="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTDATE_Scenario' Testcase: 'CWXTDATECase1'" name="Check for EOM_SW"/>
+    <testcase classname="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTDATE_Scenario' Testcase: 'CWXTDATECase1'" name="Check for YRS_OF_SERVICE">
+      <failure>Check for YRS_OF_SERVICE failed
+
+Actual Value:    		0
+
+Expected Value:  36</failure>
+    </testcase>
+    <testcase classname="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTDATE_Scenario' Testcase: 'CWXTDATECase1'" name="Check for RUN_YY"/>
+    <testcase classname="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTDATE_Scenario' Testcase: 'CWXTDATECase1'" name="Check for RUN_MM"/>
+    <testcase classname="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTDATE_Scenario' Testcase: 'CWXTDATECase1'" name="Check for RUN_DD"/>
+    <testcase classname="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTDATE_Scenario' Testcase: 'CWXTDATECase1'" name="Check for HIRE_YY"/>
+    <testcase classname="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTDATE_Scenario' Testcase: 'CWXTDATECase1'" name="Check for HIRE_MM"/>
+    <testcase classname="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTDATE_Scenario' Testcase: 'CWXTDATECase1'" name="Check for HIRE_DD"/>
+  </testsuite>
+  <testsuite errors="0" failures="1" name="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTDATE_Scenario' Testcase: 'CWXTDATECase2'" tests="8">
+    <testcase classname="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTDATE_Scenario' Testcase: 'CWXTDATECase2'" name="Check for EOM_SW"/>
+    <testcase classname="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTDATE_Scenario' Testcase: 'CWXTDATECase2'" name="Check for YRS_OF_SERVICE">
+      <failure>Check for YRS_OF_SERVICE failed
+
+Actual Value:    		36
+
+Expected Value:  25</failure>
+    </testcase>
+    <testcase classname="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTDATE_Scenario' Testcase: 'CWXTDATECase2'" name="Check for RUN_YY"/>
+    <testcase classname="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTDATE_Scenario' Testcase: 'CWXTDATECase2'" name="Check for RUN_MM"/>
+    <testcase classname="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTDATE_Scenario' Testcase: 'CWXTDATECase2'" name="Check for RUN_DD"/>
+    <testcase classname="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTDATE_Scenario' Testcase: 'CWXTDATECase2'" name="Check for HIRE_YY"/>
+    <testcase classname="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTDATE_Scenario' Testcase: 'CWXTDATECase2'" name="Check for HIRE_MM"/>
+    <testcase classname="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTDATE_Scenario' Testcase: 'CWXTDATECase2'" name="Check for HIRE_DD"/>
+  </testsuite>
+  <testsuite errors="0" failures="1" name="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTDATE_Scenario' Testcase: 'CWXTDATECase3'" tests="8">
+    <testcase classname="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTDATE_Scenario' Testcase: 'CWXTDATECase3'" name="Check for EOM_SW"/>
+    <testcase classname="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTDATE_Scenario' Testcase: 'CWXTDATECase3'" name="Check for YRS_OF_SERVICE">
+      <failure>Check for YRS_OF_SERVICE failed
+
+Actual Value:    		25
+
+Expected Value:  24</failure>
+    </testcase>
+    <testcase classname="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTDATE_Scenario' Testcase: 'CWXTDATECase3'" name="Check for RUN_YY"/>
+    <testcase classname="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTDATE_Scenario' Testcase: 'CWXTDATECase3'" name="Check for RUN_MM"/>
+    <testcase classname="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTDATE_Scenario' Testcase: 'CWXTDATECase3'" name="Check for RUN_DD"/>
+    <testcase classname="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTDATE_Scenario' Testcase: 'CWXTDATECase3'" name="Check for HIRE_YY"/>
+    <testcase classname="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTDATE_Scenario' Testcase: 'CWXTDATECase3'" name="Check for HIRE_MM"/>
+    <testcase classname="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTDATE_Scenario' Testcase: 'CWXTDATECase3'" name="Check for HIRE_DD"/>
+  </testsuite>
+  <testsuite errors="0" failures="1" name="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTDATE_Scenario' Testcase: 'CWXTDATECase4'" tests="8">
+    <testcase classname="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTDATE_Scenario' Testcase: 'CWXTDATECase4'" name="Check for EOM_SW"/>
+    <testcase classname="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTDATE_Scenario' Testcase: 'CWXTDATECase4'" name="Check for YRS_OF_SERVICE">
+      <failure>Check for YRS_OF_SERVICE failed
+
+Actual Value:    		24
+
+Expected Value:  28</failure>
+    </testcase>
+    <testcase classname="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTDATE_Scenario' Testcase: 'CWXTDATECase4'" name="Check for RUN_YY"/>
+    <testcase classname="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTDATE_Scenario' Testcase: 'CWXTDATECase4'" name="Check for RUN_MM"/>
+    <testcase classname="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTDATE_Scenario' Testcase: 'CWXTDATECase4'" name="Check for RUN_DD"/>
+    <testcase classname="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTDATE_Scenario' Testcase: 'CWXTDATECase4'" name="Check for HIRE_YY"/>
+    <testcase classname="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTDATE_Scenario' Testcase: 'CWXTDATECase4'" name="Check for HIRE_MM"/>
+    <testcase classname="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTDATE_Scenario' Testcase: 'CWXTDATECase4'" name="Check for HIRE_DD"/>
+  </testsuite>
+</testsuites>
