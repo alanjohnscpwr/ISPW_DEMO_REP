@@ -55,8 +55,8 @@
           <checkconditions:expectation assert="=" type="string">N</checkconditions:expectation>
         </checkconditions:simpleCheckcondition>
         <checkconditions:simpleCheckcondition message="Check for YRS_OF_SERVICE failed" name="Check for YRS_OF_SERVICE" refData="#input.arg1.YRS_OF_SERVICE.YRS_OF_SERVICE">
-          <checkconditions:expression>BigDecimalCreator.make('36').compareTo(output.arg1.YRS_OF_SERVICE.YRS_OF_SERVICE) eq 0</checkconditions:expression>
-          <checkconditions:expectation assert="=" type="number">36</checkconditions:expectation>
+          <checkconditions:expression>BigDecimalCreator.make('0').compareTo(output.arg1.YRS_OF_SERVICE.YRS_OF_SERVICE) eq 0</checkconditions:expression>
+          <checkconditions:expectation assert="=" type="number">0</checkconditions:expectation>
         </checkconditions:simpleCheckcondition>
         <checkconditions:simpleCheckcondition message="Check for RUN_YY failed" name="Check for RUN_YY" refData="#input.arg2.RUN_DATE.RUN_YY">
           <checkconditions:expression>BigDecimalCreator.make('18').compareTo(output.arg2.RUN_DATE.RUN_YY) eq 0</checkconditions:expression>
@@ -138,8 +138,8 @@
           <checkconditions:expectation assert="=" type="string">N</checkconditions:expectation>
         </checkconditions:simpleCheckcondition>
         <checkconditions:simpleCheckcondition message="Check for YRS_OF_SERVICE failed" name="Check for YRS_OF_SERVICE" refData="#input.arg1.YRS_OF_SERVICE.YRS_OF_SERVICE">
-          <checkconditions:expression>BigDecimalCreator.make('25').compareTo(output.arg1.YRS_OF_SERVICE.YRS_OF_SERVICE) eq 0</checkconditions:expression>
-          <checkconditions:expectation assert="=" type="number">25</checkconditions:expectation>
+          <checkconditions:expression>BigDecimalCreator.make('36').compareTo(output.arg1.YRS_OF_SERVICE.YRS_OF_SERVICE) eq 0</checkconditions:expression>
+          <checkconditions:expectation assert="=" type="number">36</checkconditions:expectation>
         </checkconditions:simpleCheckcondition>
         <checkconditions:simpleCheckcondition message="Check for RUN_YY failed" name="Check for RUN_YY" refData="#input.arg2.RUN_DATE.RUN_YY">
           <checkconditions:expression>BigDecimalCreator.make('18').compareTo(output.arg2.RUN_DATE.RUN_YY) eq 0</checkconditions:expression>
@@ -221,8 +221,8 @@
           <checkconditions:expectation assert="=" type="string">N</checkconditions:expectation>
         </checkconditions:simpleCheckcondition>
         <checkconditions:simpleCheckcondition message="Check for YRS_OF_SERVICE failed" name="Check for YRS_OF_SERVICE" refData="#input.arg1.YRS_OF_SERVICE.YRS_OF_SERVICE">
-          <checkconditions:expression>BigDecimalCreator.make('24').compareTo(output.arg1.YRS_OF_SERVICE.YRS_OF_SERVICE) eq 0</checkconditions:expression>
-          <checkconditions:expectation assert="=" type="number">24</checkconditions:expectation>
+          <checkconditions:expression>BigDecimalCreator.make('25').compareTo(output.arg1.YRS_OF_SERVICE.YRS_OF_SERVICE) eq 0</checkconditions:expression>
+          <checkconditions:expectation assert="=" type="number">25</checkconditions:expectation>
         </checkconditions:simpleCheckcondition>
         <checkconditions:simpleCheckcondition message="Check for RUN_YY failed" name="Check for RUN_YY" refData="#input.arg2.RUN_DATE.RUN_YY">
           <checkconditions:expression>BigDecimalCreator.make('18').compareTo(output.arg2.RUN_DATE.RUN_YY) eq 0</checkconditions:expression>
@@ -304,8 +304,8 @@
           <checkconditions:expectation assert="=" type="string">N</checkconditions:expectation>
         </checkconditions:simpleCheckcondition>
         <checkconditions:simpleCheckcondition message="Check for YRS_OF_SERVICE failed" name="Check for YRS_OF_SERVICE" refData="#input.arg1.YRS_OF_SERVICE.YRS_OF_SERVICE">
-          <checkconditions:expression>BigDecimalCreator.make('28').compareTo(output.arg1.YRS_OF_SERVICE.YRS_OF_SERVICE) eq 0</checkconditions:expression>
-          <checkconditions:expectation assert="=" type="number">28</checkconditions:expectation>
+          <checkconditions:expression>BigDecimalCreator.make('24').compareTo(output.arg1.YRS_OF_SERVICE.YRS_OF_SERVICE) eq 0</checkconditions:expression>
+          <checkconditions:expectation assert="=" type="number">24</checkconditions:expectation>
         </checkconditions:simpleCheckcondition>
         <checkconditions:simpleCheckcondition message="Check for RUN_YY failed" name="Check for RUN_YY" refData="#input.arg2.RUN_DATE.RUN_YY">
           <checkconditions:expression>BigDecimalCreator.make('18').compareTo(output.arg2.RUN_DATE.RUN_YY) eq 0</checkconditions:expression>
