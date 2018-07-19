@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?totaltestVersion 18.3.1.v20180327-2102_9?>
-<!--Topaz for Total Test 18.3.1.v20180327-2102_9 May 3, 2018 2:57:49 PM-->
+<?totaltestVersion 19.1.1.v20180612-1335_7?>
+<!--Topaz for Total Test 19.1.1.v20180612-1335_7 Jul 19, 2018 12:42:29 PM-->
 <testsuites>
-  <testsuite errors="0" failures="0" name="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTSUBC_Scenario' Testcase: 'CWXTSUBCCase1'" tests="3">
-    <testcase classname="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTSUBC_Scenario' Testcase: 'CWXTSUBCCase1'" name="Check for EMP_TYPE"/>
-    <testcase classname="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTSUBC_Scenario' Testcase: 'CWXTSUBCCase1'" name="Check for SALES_AMOUNT"/>
-    <testcase classname="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTSUBC_Scenario' Testcase: 'CWXTSUBCCase1'" name="Check for COMM_TOTAL"/>
+  <testsuite errors="0" failures="0" name="ISPW_CWXTCOB_T1.CWXTSUBC_Scenario.00001: CWXTSUBCCase1" tests="3">
+    <testcase classname="ISPW_CWXTCOB_T1.CWXTSUBC_Scenario.00001: CWXTSUBCCase1" name="00001: Check for EMP_TYPE"/>
+    <testcase classname="ISPW_CWXTCOB_T1.CWXTSUBC_Scenario.00001: CWXTSUBCCase1" name="00002: Check for SALES_AMOUNT"/>
+    <testcase classname="ISPW_CWXTCOB_T1.CWXTSUBC_Scenario.00001: CWXTSUBCCase1" name="00003: Check for COMM_TOTAL"/>
   </testsuite>
-  <testsuite errors="0" failures="0" name="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTSUBC_Scenario' Testcase: 'CWXTSUBCCase2'" tests="3">
-    <testcase classname="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTSUBC_Scenario' Testcase: 'CWXTSUBCCase2'" name="Check for EMP_TYPE"/>
-    <testcase classname="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTSUBC_Scenario' Testcase: 'CWXTSUBCCase2'" name="Check for SALES_AMOUNT"/>
-    <testcase classname="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTSUBC_Scenario' Testcase: 'CWXTSUBCCase2'" name="Check for COMM_TOTAL"/>
+  <testsuite errors="0" failures="0" name="ISPW_CWXTCOB_T1.CWXTSUBC_Scenario.00002: CWXTSUBCCase2" tests="3">
+    <testcase classname="ISPW_CWXTCOB_T1.CWXTSUBC_Scenario.00002: CWXTSUBCCase2" name="00001: Check for EMP_TYPE"/>
+    <testcase classname="ISPW_CWXTCOB_T1.CWXTSUBC_Scenario.00002: CWXTSUBCCase2" name="00002: Check for SALES_AMOUNT"/>
+    <testcase classname="ISPW_CWXTCOB_T1.CWXTSUBC_Scenario.00002: CWXTSUBCCase2" name="00003: Check for COMM_TOTAL"/>
   </testsuite>
-  <testsuite errors="0" failures="0" name="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTSUBC_Scenario' Testcase: 'CWXTSUBCCase3'" tests="3">
-    <testcase classname="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTSUBC_Scenario' Testcase: 'CWXTSUBCCase3'" name="Check for EMP_TYPE"/>
-    <testcase classname="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTSUBC_Scenario' Testcase: 'CWXTSUBCCase3'" name="Check for SALES_AMOUNT"/>
-    <testcase classname="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTSUBC_Scenario' Testcase: 'CWXTSUBCCase3'" name="Check for COMM_TOTAL"/>
+  <testsuite errors="0" failures="0" name="ISPW_CWXTCOB_T1.CWXTSUBC_Scenario.00003: CWXTSUBCCase3" tests="3">
+    <testcase classname="ISPW_CWXTCOB_T1.CWXTSUBC_Scenario.00003: CWXTSUBCCase3" name="00001: Check for EMP_TYPE"/>
+    <testcase classname="ISPW_CWXTCOB_T1.CWXTSUBC_Scenario.00003: CWXTSUBCCase3" name="00002: Check for SALES_AMOUNT"/>
+    <testcase classname="ISPW_CWXTCOB_T1.CWXTSUBC_Scenario.00003: CWXTSUBCCase3" name="00003: Check for COMM_TOTAL"/>
   </testsuite>
-  <testsuite errors="0" failures="0" name="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTSUBC_Scenario' Testcase: 'CWXTSUBCCase4'" tests="3">
-    <testcase classname="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTSUBC_Scenario' Testcase: 'CWXTSUBCCase4'" name="Check for EMP_TYPE"/>
-    <testcase classname="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTSUBC_Scenario' Testcase: 'CWXTSUBCCase4'" name="Check for SALES_AMOUNT"/>
-    <testcase classname="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTSUBC_Scenario' Testcase: 'CWXTSUBCCase4'" name="Check for COMM_TOTAL"/>
+  <testsuite errors="0" failures="0" name="ISPW_CWXTCOB_T1.CWXTSUBC_Scenario.00004: CWXTSUBCCase4" tests="3">
+    <testcase classname="ISPW_CWXTCOB_T1.CWXTSUBC_Scenario.00004: CWXTSUBCCase4" name="00001: Check for EMP_TYPE"/>
+    <testcase classname="ISPW_CWXTCOB_T1.CWXTSUBC_Scenario.00004: CWXTSUBCCase4" name="00002: Check for SALES_AMOUNT"/>
+    <testcase classname="ISPW_CWXTCOB_T1.CWXTSUBC_Scenario.00004: CWXTSUBCCase4" name="00003: Check for COMM_TOTAL"/>
   </testsuite>
-  <testsuite errors="0" failures="0" name="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTSUBC_Scenario' Testcase: 'CWXTSUBCCase5'" tests="3">
-    <testcase classname="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTSUBC_Scenario' Testcase: 'CWXTSUBCCase5'" name="Check for EMP_TYPE"/>
-    <testcase classname="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTSUBC_Scenario' Testcase: 'CWXTSUBCCase5'" name="Check for SALES_AMOUNT"/>
-    <testcase classname="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTSUBC_Scenario' Testcase: 'CWXTSUBCCase5'" name="Check for COMM_TOTAL"/>
+  <testsuite errors="0" failures="0" name="ISPW_CWXTCOB_T1.CWXTSUBC_Scenario.00005: CWXTSUBCCase5" tests="3">
+    <testcase classname="ISPW_CWXTCOB_T1.CWXTSUBC_Scenario.00005: CWXTSUBCCase5" name="00001: Check for EMP_TYPE"/>
+    <testcase classname="ISPW_CWXTCOB_T1.CWXTSUBC_Scenario.00005: CWXTSUBCCase5" name="00002: Check for SALES_AMOUNT"/>
+    <testcase classname="ISPW_CWXTCOB_T1.CWXTSUBC_Scenario.00005: CWXTSUBCCase5" name="00003: Check for COMM_TOTAL"/>
   </testsuite>
 </testsuites>

@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?totaltestVersion 18.3.1.v20180327-2102_9?>
-<!--Topaz for Total Test 18.3.1.v20180327-2102_9 May 3, 2018 2:57:49 PM-->
+<?totaltestVersion 19.1.1.v20180612-1335_7?>
+<!--Topaz for Total Test 19.1.1.v20180612-1335_7 Jul 19, 2018 12:42:29 PM-->
 <testExecutions version="1">
-  <file path="C:\Users\cpwr01\Compuware\Workbench\workspace\ISPW_CWXTCOB_T1\Unit Test\Scenarios\CWXTSUBC_Scenario.testscenario">
-    <testCase duration="0" name="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTSUBC_Scenario' Testcase: 'CWXTSUBCCase1' Test: Check for EMP_TYPE'"/>
-    <testCase duration="0" name="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTSUBC_Scenario' Testcase: 'CWXTSUBCCase1' Test: Check for SALES_AMOUNT'"/>
-    <testCase duration="0" name="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTSUBC_Scenario' Testcase: 'CWXTSUBCCase1' Test: Check for COMM_TOTAL'"/>
+  <file path="C:\Users\cpwr01\git\ISPW_CWXTCOB_T1\ISPW_CWXTCOB_T1\Unit Test\Scenarios\CWXTSUBC_Scenario.testscenario">
+    <testCase duration="0" name="ISPW_CWXTCOB_T1.CWXTSUBC_Scenario.00001: CWXTSUBCCase1.00001: Check for EMP_TYPE"/>
+    <testCase duration="0" name="ISPW_CWXTCOB_T1.CWXTSUBC_Scenario.00001: CWXTSUBCCase1.00002: Check for SALES_AMOUNT"/>
+    <testCase duration="0" name="ISPW_CWXTCOB_T1.CWXTSUBC_Scenario.00001: CWXTSUBCCase1.00003: Check for COMM_TOTAL"/>
   </file>
-  <file path="C:\Users\cpwr01\Compuware\Workbench\workspace\ISPW_CWXTCOB_T1\Unit Test\Scenarios\CWXTSUBC_Scenario.testscenario">
-    <testCase duration="0" name="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTSUBC_Scenario' Testcase: 'CWXTSUBCCase2' Test: Check for EMP_TYPE'"/>
-    <testCase duration="0" name="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTSUBC_Scenario' Testcase: 'CWXTSUBCCase2' Test: Check for SALES_AMOUNT'"/>
-    <testCase duration="0" name="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTSUBC_Scenario' Testcase: 'CWXTSUBCCase2' Test: Check for COMM_TOTAL'"/>
+  <file path="C:\Users\cpwr01\git\ISPW_CWXTCOB_T1\ISPW_CWXTCOB_T1\Unit Test\Scenarios\CWXTSUBC_Scenario.testscenario">
+    <testCase duration="0" name="ISPW_CWXTCOB_T1.CWXTSUBC_Scenario.00002: CWXTSUBCCase2.00001: Check for EMP_TYPE"/>
+    <testCase duration="0" name="ISPW_CWXTCOB_T1.CWXTSUBC_Scenario.00002: CWXTSUBCCase2.00002: Check for SALES_AMOUNT"/>
+    <testCase duration="0" name="ISPW_CWXTCOB_T1.CWXTSUBC_Scenario.00002: CWXTSUBCCase2.00003: Check for COMM_TOTAL"/>
   </file>
-  <file path="C:\Users\cpwr01\Compuware\Workbench\workspace\ISPW_CWXTCOB_T1\Unit Test\Scenarios\CWXTSUBC_Scenario.testscenario">
-    <testCase duration="0" name="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTSUBC_Scenario' Testcase: 'CWXTSUBCCase3' Test: Check for EMP_TYPE'"/>
-    <testCase duration="0" name="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTSUBC_Scenario' Testcase: 'CWXTSUBCCase3' Test: Check for SALES_AMOUNT'"/>
-    <testCase duration="0" name="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTSUBC_Scenario' Testcase: 'CWXTSUBCCase3' Test: Check for COMM_TOTAL'"/>
+  <file path="C:\Users\cpwr01\git\ISPW_CWXTCOB_T1\ISPW_CWXTCOB_T1\Unit Test\Scenarios\CWXTSUBC_Scenario.testscenario">
+    <testCase duration="0" name="ISPW_CWXTCOB_T1.CWXTSUBC_Scenario.00003: CWXTSUBCCase3.00001: Check for EMP_TYPE"/>
+    <testCase duration="0" name="ISPW_CWXTCOB_T1.CWXTSUBC_Scenario.00003: CWXTSUBCCase3.00002: Check for SALES_AMOUNT"/>
+    <testCase duration="0" name="ISPW_CWXTCOB_T1.CWXTSUBC_Scenario.00003: CWXTSUBCCase3.00003: Check for COMM_TOTAL"/>
   </file>
-  <file path="C:\Users\cpwr01\Compuware\Workbench\workspace\ISPW_CWXTCOB_T1\Unit Test\Scenarios\CWXTSUBC_Scenario.testscenario">
-    <testCase duration="0" name="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTSUBC_Scenario' Testcase: 'CWXTSUBCCase4' Test: Check for EMP_TYPE'"/>
-    <testCase duration="0" name="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTSUBC_Scenario' Testcase: 'CWXTSUBCCase4' Test: Check for SALES_AMOUNT'"/>
-    <testCase duration="0" name="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTSUBC_Scenario' Testcase: 'CWXTSUBCCase4' Test: Check for COMM_TOTAL'"/>
+  <file path="C:\Users\cpwr01\git\ISPW_CWXTCOB_T1\ISPW_CWXTCOB_T1\Unit Test\Scenarios\CWXTSUBC_Scenario.testscenario">
+    <testCase duration="0" name="ISPW_CWXTCOB_T1.CWXTSUBC_Scenario.00004: CWXTSUBCCase4.00001: Check for EMP_TYPE"/>
+    <testCase duration="0" name="ISPW_CWXTCOB_T1.CWXTSUBC_Scenario.00004: CWXTSUBCCase4.00002: Check for SALES_AMOUNT"/>
+    <testCase duration="0" name="ISPW_CWXTCOB_T1.CWXTSUBC_Scenario.00004: CWXTSUBCCase4.00003: Check for COMM_TOTAL"/>
   </file>
-  <file path="C:\Users\cpwr01\Compuware\Workbench\workspace\ISPW_CWXTCOB_T1\Unit Test\Scenarios\CWXTSUBC_Scenario.testscenario">
-    <testCase duration="0" name="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTSUBC_Scenario' Testcase: 'CWXTSUBCCase5' Test: Check for EMP_TYPE'"/>
-    <testCase duration="0" name="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTSUBC_Scenario' Testcase: 'CWXTSUBCCase5' Test: Check for SALES_AMOUNT'"/>
-    <testCase duration="0" name="Project: 'ISPW_CWXTCOB_T1' Scenario: 'CWXTSUBC_Scenario' Testcase: 'CWXTSUBCCase5' Test: Check for COMM_TOTAL'"/>
+  <file path="C:\Users\cpwr01\git\ISPW_CWXTCOB_T1\ISPW_CWXTCOB_T1\Unit Test\Scenarios\CWXTSUBC_Scenario.testscenario">
+    <testCase duration="0" name="ISPW_CWXTCOB_T1.CWXTSUBC_Scenario.00005: CWXTSUBCCase5.00001: Check for EMP_TYPE"/>
+    <testCase duration="0" name="ISPW_CWXTCOB_T1.CWXTSUBC_Scenario.00005: CWXTSUBCCase5.00002: Check for SALES_AMOUNT"/>
+    <testCase duration="0" name="ISPW_CWXTCOB_T1.CWXTSUBC_Scenario.00005: CWXTSUBCCase5.00003: Check for COMM_TOTAL"/>
   </file>
 </testExecutions>
